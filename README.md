@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/victorrmark/Product-preview-card)
-- Live Site URL: [Add live site URL here](https://victorrmark.github.io/Product-preview-card)
+- Solution URL: [GitHub](https://github.com/victorrmark/Product-preview-card)
+- Live Site URL: [live](https://victorrmark.github.io/Product-preview-card)
 
 ## My process
 
@@ -39,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/victorrmark)
-- Twitter - [@yourusername](https://www.twitter.com/victorrmark)
+- Frontend Mentor - [@victorrmark](https://www.frontendmentor.io/profile/victorrmark)
+- Twitter - [@victorrmark](https://www.twitter.com/victorrmark)
